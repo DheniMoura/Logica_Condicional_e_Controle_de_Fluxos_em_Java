@@ -5,15 +5,14 @@ public class exercicio1 {
 
 public static void main (String[] args){
 
-
     ifSemFlecha();
     ifFerias();
     switchFerias();
 
-
 }
 
 private static void ifSemFlecha() {
+    
     int mes = 1;
 
         if(mes == 1){
